@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name" : "yunus emre"
+        }
+    ],
+    "posts":[
+        {
+            "id": 1,
+            "title":"post 1",
+            "description":"post 1 description",
+            "userId":1
+        }
+    ]
+}

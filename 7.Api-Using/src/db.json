@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "title": "Bu Bir updated post",
+      "views": 1000,
+      "id": "2"
+    },
+    {
+      "id": "0330",
+      "title": "Bu bir deneme projesidir",
+      "views": 569
+    },
+    {
+      "id": "37b0",
+      "title": "Bu bir deneme projesidir",
+      "views": 569
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
